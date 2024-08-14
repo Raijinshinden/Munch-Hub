@@ -14,6 +14,8 @@ const [nav, setNav] = useState(false)
                 Munch <span className='font-bold'>Hub</span>
             </h1>
             <div className='hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px] hover:cursor-pointer'>
+                <p id='Delivery'></p>
+                <p id='Pickup'></p>
 
             </div>
         </div>
