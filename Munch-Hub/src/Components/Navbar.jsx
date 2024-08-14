@@ -13,6 +13,9 @@ const [nav, setNav] = useState(false)
             <h1 className='text-2xl sm:text-3xl lg:text-4xl px-2'>
                 Munch <span className='font-bold'>Hub</span>
             </h1>
+            <div className='hidden lg:flex items-center'>
+
+            </div>
         </div>
 
     </div>
