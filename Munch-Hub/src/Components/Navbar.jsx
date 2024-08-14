@@ -10,7 +10,9 @@ const [nav, setNav] = useState(false)
             <div onClick={()=> setNav(!nav)} className='cursor-pointer'>
                 <AiOutlineMenu size={30}/>
             </div>
-
+            <h1 className='text-2xl sm:text-3xl lg:text-4xl px-2'>
+                Munch <span className='font-bold'>Hub</span>
+            </h1>
         </div>
 
     </div>
