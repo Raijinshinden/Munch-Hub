@@ -22,6 +22,10 @@ const [nav, setNav] = useState(false)
 
         {/* Search Input */}
 
+        <div className='bg-gray-200 rounded-full flex items-center px-2 w-[200px]'>
+
+        </div>
+
     </div>
   )
 }
