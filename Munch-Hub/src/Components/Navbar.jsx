@@ -37,6 +37,9 @@ const [nav, setNav] = useState(false)
         {/* Overlay */}
         {nav ? <div className='bg-black/80 fixed w-full h-screen z-10 top-0 left-0'></div> : ''} {/* Will display the overlay when the hamburger menu is clicked and nav is true */}
 
+
+        {/* Side drawer menu */}
+
     </div>
   )
 }
