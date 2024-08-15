@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import {AiFillTag, AiOutlineClose, AiOutlineMenu, AiOutlineSearch} from 'react-icons/ai'
+import {BsFillCartFill, BsFillSaveFill} from 'react-icons/bs'
 
 function Navbar() {
 const [nav, setNav] = useState(false)
@@ -29,7 +30,7 @@ const [nav, setNav] = useState(false)
 
         {/* Cart button */}
         <button className='bg-black text-white hidden md:flex items-center py-2 rounded-full'>
-
+            <BsFillCartFill size={20} className='mr-2'/>Cart
         </button>
 
     </div>
