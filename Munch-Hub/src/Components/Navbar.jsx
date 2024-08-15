@@ -35,6 +35,7 @@ const [nav, setNav] = useState(false)
 
         {/* Mobile Menu */}
         {/* Overlay */}
+        {nav ? <div className='bg-black/80 fixed'}
 
     </div>
   )
