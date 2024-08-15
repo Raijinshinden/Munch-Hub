@@ -39,7 +39,7 @@ const [nav, setNav] = useState(false)
 
 
         {/* Side drawer menu */}
-        <div className=''>
+        <div className={nav ? 'fixed top-0 left-0 w-[300px]'}>
 
         </div>
 
