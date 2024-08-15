@@ -43,7 +43,7 @@ const [nav, setNav] = useState(false)
             <AiOutlineClose
             onClick={()=> setNav(!nav)}
             size={30}
-            className='absolute right-4 top-4 cursor-pointer duration-300'
+            className='absolute right-4 top-4 cursor-pointer'
             />
             <h2 className='text-2xl p-4'>
                 Munch <span className='font-bold'>Hub</span>
