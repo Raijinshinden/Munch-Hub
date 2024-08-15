@@ -40,7 +40,14 @@ const [nav, setNav] = useState(false)
 
         {/* Side drawer menu */}
         <div className={nav ? 'fixed top-0 left-0 w-[300px] h-screen bg-white z-10 duration-300' : 'fixed top-0 left-[-100%] w-[300px] h-screen bg-white z-10 duration-300'}> {/* Will display the sidemenu when the hamburger menu is clicked and nav is true */}
-
+            <AiOutlineClose
+            onClick={()=> setNav(!nav)}
+            size={30}
+            className='absolute right-4 top-4 cursor-pointer duration-300'
+            />
+            <h2 className='text-2xl p-4'>
+                Munch <span className='font-bold'>Hub</span>
+            </h2>
         </div>
 
     </div>
