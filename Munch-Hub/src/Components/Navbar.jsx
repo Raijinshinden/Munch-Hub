@@ -28,7 +28,7 @@ const [nav, setNav] = useState(false)
         </div>
 
         {/* Cart button */}
-        <button className=''>
+        <button className='bg-black text-white hidden md:flex'>
 
         </button>
 
