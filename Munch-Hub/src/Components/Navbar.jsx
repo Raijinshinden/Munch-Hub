@@ -63,7 +63,6 @@ const [nav, setNav] = useState(false)
 
             </nav>
         </div>
-
     </div>
   )
 }
