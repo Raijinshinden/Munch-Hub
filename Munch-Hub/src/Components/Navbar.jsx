@@ -57,7 +57,7 @@ const [nav, setNav] = useState(false)
                     <li className='text-xl py-4 flex'><MdFavorite size={25} className='mr-4'/>Favorites</li>
                     <li className='text-xl py-4 flex'><FaWallet size={25} className='mr-4'/>Wallet</li>
                     <li className='text-xl py-4 flex'><AiFillTag size={25} className='mr-4'/>Promotions</li>
-                    <li className='text-xl py-4 flex'><BsFillSaveFill size={25} className='mr-4'/>Best Ones</li>
+                    <li className='text-xl py-4 flex'><BsFillSaveFill size={25} className='mr-4'/>Best Deals</li>
                     <li className='text-xl py-4 flex'><MdHelp size={25} className='mr-4'/>Help</li>
 
             </nav>
