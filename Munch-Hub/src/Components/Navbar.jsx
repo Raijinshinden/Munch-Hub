@@ -52,7 +52,7 @@ const [nav, setNav] = useState(false)
                 Munch <span className='font-bold'>Hub</span>
             </h2>
             <nav> {/* Adding buttons to the side menu */}
-                <ul className='flex flex-col p-4 bg-gray-800'>
+                <ul className='flex flex-col p-4 text-gray-800'>
                     <li className='text-xl py-4 flex'><TbTruckDelivery size={25} className='mr-4 ml-1'/>Orders</li>
                     <li className='text-xl py-4 flex'><MdFavorite size={25} className='mr-4 ml-1'/>Favorites</li>
                     <li className='text-xl py-4 flex'><FaWallet size={25} className='mr-4 ml-1'/>Wallet</li>
