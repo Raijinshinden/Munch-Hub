@@ -48,8 +48,8 @@ const [nav, setNav] = useState(false)
             <h2 className='text-2xl p-4'>
                 Munch <span className='font-bold'>Hub</span>
             </h2>
-            <nav>
-                
+            <nav> {/* Adding buttons to the side menu */}
+
             </nav>
         </div>
 
