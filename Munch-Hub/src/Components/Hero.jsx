@@ -2,8 +2,8 @@ import React from 'react'
 
 function Hero() {
   return (
-    <div>
-        
+    <div className='max-w-[1640px]'>
+
     </div>
   )
 }
