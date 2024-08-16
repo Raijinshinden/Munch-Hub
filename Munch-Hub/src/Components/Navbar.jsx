@@ -53,7 +53,7 @@ const [nav, setNav] = useState(false)
             </h2>
             <nav> {/* Adding buttons to the side menu */}
                 <ul className='flex flex-col p-4 bg-gray-800'></ul>
-                    <li className='text-xl py-4 flex'><TbTruckDelivery size={25} className='mr-4'/>Orders</li>
+                    <li className='text-xl py-4 flex'><TbTruckDelivery size={25} className='mr-4 ml-1'/>Orders</li>
                     <li className='text-xl py-4 flex'><MdFavorite size={25} className='mr-4'/>Favorites</li>
                     <li className='text-xl py-4 flex'><FaWallet size={25} className='mr-4'/>Wallet</li>
                     <li className='text-xl py-4 flex'><AiFillTag size={25} className='mr-4'/>Promotions</li>
