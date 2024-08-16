@@ -2,6 +2,7 @@ import React, {useState} from 'react'
 import {AiFillTag, AiOutlineClose, AiOutlineMenu, AiOutlineSearch} from 'react-icons/ai'
 import {BsFillCartFill, BsFillSaveFill} from 'react-icons/bs'
 import {TbTruckDelivery} from 'react-icons/tb'
+import {MdFavorite, MdHelp} from 'react-icons/md'
 
 function Navbar() {
 const [nav, setNav] = useState(false)
@@ -52,6 +53,7 @@ const [nav, setNav] = useState(false)
             <nav> {/* Adding buttons to the side menu */}
                 <ul className='flex flex-col p-4 bg-gray-800'></ul>
                     <li className='text-xl py-4 flex'><TbTruckDelivery size={25} className='mr-4'/>Orders</li>
+                    <li className='text-xl py-4 flex'><MdFavorite size={25} className='mr-4'/>Orders</li>
 
             </nav>
         </div>
