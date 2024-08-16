@@ -3,6 +3,7 @@ import {AiFillTag, AiOutlineClose, AiOutlineMenu, AiOutlineSearch} from 'react-i
 import {BsFillCartFill, BsFillSaveFill} from 'react-icons/bs'
 import {TbTruckDelivery} from 'react-icons/tb'
 import {MdFavorite, MdHelp} from 'react-icons/md'
+import {FaWallet, FaUserFriends} from 'react-icons/fa'
 
 function Navbar() {
 const [nav, setNav] = useState(false)
