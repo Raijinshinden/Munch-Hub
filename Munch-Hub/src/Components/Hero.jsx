@@ -6,7 +6,7 @@ function Hero() {
         <div className='max-h-[500px] relative'>
             {/* Overlay */}
             <div className='absolute w-full h-full text-gray-200 max-h-[500px] bg-black/40 flex flex-col justify-center'>
-                <h1>The <span className='text-'>Best</span></h1>
+                <h1 className=''>The <span className='text-orange-500'>Best</span></h1>
             </div>
 
         </div>
