@@ -50,6 +50,7 @@ const [nav, setNav] = useState(false)
             </h2>
             <nav> {/* Adding buttons to the side menu */}
                 <ul className='flex flex-col p-4 bg-gray-800'></ul>
+                    <li className=''></li>
 
             </nav>
         </div>
