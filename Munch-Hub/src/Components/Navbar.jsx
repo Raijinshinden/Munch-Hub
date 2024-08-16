@@ -19,7 +19,7 @@ const [nav, setNav] = useState(false)
             </h1>
             <div className='hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px] hover:cursor-pointer'>
                 <p id='Delivery' className='{delivery} text-white rounded-full p-2'>Delivery</p>
-                <p id='Pickup'>Pickup</p>
+                <p id='Pickup' className='p-2'>Pickup</p>
             </div>
         </div>
 
