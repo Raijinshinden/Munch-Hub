@@ -5,7 +5,7 @@ function Hero() {
     <div className='max-w-[1640px] mx-auto p-4'>
         <div className='max-h-[500px] relative'>
             {/* Overlay */}
-            <div className='absolute w-full h-full text-gray-200 max-h-[500px]'>
+            <div className='absolute w-full h-full text-gray-200 max-h-[500px] bg-black/50'>
 
             </div>
 
