@@ -9,7 +9,7 @@ function Hero() {
                 <h1 className='px-4 py-1 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'>The <span className='text-yellow-400'>Best</span></h1>
                 <h1 className='px-4 py-1 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'><span className='text-yellow-400'>Meal</span> Deals</h1>
             </div>
-            <img className='w-full max-h-[500px] object-cover' src='https://images.pexels.com/photos/8753672/pexels-photo-8753672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='A delicious meal sitting on a table'/>
+            <img className='w-full max-h-[500px] object-cover' src='https://images.pexels.com/photos/8753672/pexels-photo-8753672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='A variety of delicious meals sitting on a table'/>
         </div>
     </div>
   )
