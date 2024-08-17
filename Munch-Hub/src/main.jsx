@@ -1,12 +1,14 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import App from './App.jsx'
 import './index.css'
+import App from './App.jsx'
 import Hero from './Components/Hero.jsx'
+import HeadlineCards from './Components/HeadlineCards.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
     <Hero/>
+    <HeadlineCards/>
   </StrictMode>,
 )
