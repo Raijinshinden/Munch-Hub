@@ -10,7 +10,7 @@ function HeadlineCards() {
                 <p className='px-2'>Updated Weekly</p>
                 <button className='border-white bg-white text-black mx-2 absolute bottom-4'></button>
             </div>
-            <img />
+            <img className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl' />
         </div>
     </div>
   )
