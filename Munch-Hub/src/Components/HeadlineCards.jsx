@@ -18,10 +18,12 @@ function HeadlineCards() {
         {/* Card 2 */}
         <div className='rounded-xl relative'>
             {/* Card Overlay */}
-            <div>
+            <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
 
             </div>
-            <img/>
+            <img className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
+                 src='https://images.pexels.com/photos/1058277/pexels-photo-1058277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+                 alt='A very busy bar, with a wide variety of different drinks.'/>
         </div>
     </div>
   )
