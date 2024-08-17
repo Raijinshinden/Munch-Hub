@@ -15,7 +15,10 @@ function HeadlineCards() {
                  src='https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
                  alt='A delicious burger and fries served on a white plate.'/>
         </div>
-
+        {/* Card 2 */}
+        <div className='rounded-xl relative'>
+            
+        </div>
     </div>
   )
 }
