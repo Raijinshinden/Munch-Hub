@@ -24,8 +24,8 @@ function HeadlineCards() {
                 <button className='border-white bg-white text-black mx-2 absolute bottom-4'>Learn More</button>
             </div>
             <img className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
-                 src='https://images.pexels.com/photos/1058277/pexels-photo-1058277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-                 alt='A very busy bar, with a wide variety of different drinks.'/>
+                 src='https://images.pexels.com/photos/1267321/pexels-photo-1267321.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+                 alt='A large group of people having a conversation at a restaurant.'/>
         </div>
     </div>
   )
