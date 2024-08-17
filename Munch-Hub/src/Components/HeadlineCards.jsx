@@ -17,7 +17,11 @@ function HeadlineCards() {
         </div>
         {/* Card 2 */}
         <div className='rounded-xl relative'>
-            
+            {/* Card Overlay */}
+            <div>
+
+            </div>
+            <img/>
         </div>
     </div>
   )
