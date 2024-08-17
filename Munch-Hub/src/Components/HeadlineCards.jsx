@@ -6,6 +6,7 @@ function HeadlineCards() {
         <div className='rounded-xl relative'> {/* Card 1 */}
             {/* Card Overlay */}
             <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
+                <p className='font-bold text-2xl px-2 pt-2 '>Buy one</p>
 
             </div>
 
