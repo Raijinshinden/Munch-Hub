@@ -21,7 +21,7 @@ function HeadlineCards() {
             <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
                 <p className='font-bold text-2xl px-2 pt-2'>New Restaurants</p>
                 <p className='px-2'>Added Daily</p>
-                <button>Learn More</button>
+                <button className='border-white bg-white text-black mx-2 absolute bottom-4'>Learn More</button>
             </div>
             <img className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
                  src='https://images.pexels.com/photos/1058277/pexels-photo-1058277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
