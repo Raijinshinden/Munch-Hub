@@ -19,7 +19,9 @@ function HeadlineCards() {
         <div className='rounded-xl relative'>
             {/* Card Overlay */}
             <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-
+                <p></p>
+                <p></p>
+                <button></button>
             </div>
             <img className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
                  src='https://images.pexels.com/photos/1058277/pexels-photo-1058277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
