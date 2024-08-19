@@ -23,7 +23,7 @@ function HeadlineCards() {
                 <p className='px-2'>Added Daily</p>
                 <button className='border-white bg-white text-black mx-2 absolute bottom-4'>See More</button>
             </div>
-            <img className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
+            <img className='max-h-[150px] md:max-h-[200px] w-full object-cover rounded-xl'
                  src='https://images.pexels.com/photos/1267321/pexels-photo-1267321.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
                  alt='A large group of people having a conversation at a restaurant.'/>
         </div>
