@@ -27,6 +27,7 @@ function HeadlineCards() {
                  src='https://images.pexels.com/photos/1267321/pexels-photo-1267321.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
                  alt='A large group of people having a conversation at a restaurant.'/>
         </div>
+        {/* Card 3 */}
     </div>
   )
 }
