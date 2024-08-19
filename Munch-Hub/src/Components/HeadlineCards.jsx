@@ -33,7 +33,7 @@ function HeadlineCards() {
             <div>
 
             </div>
-            <img className=''/>
+            <img className='max-h-[160px]'/>
         </div>
     </div>
   )
