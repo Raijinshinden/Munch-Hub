@@ -28,6 +28,9 @@ function HeadlineCards() {
                  alt='A large group of people having a conversation at a restaurant.'/>
         </div>
         {/* Card 3 */}
+        <div>
+            
+        </div>
     </div>
   )
 }
