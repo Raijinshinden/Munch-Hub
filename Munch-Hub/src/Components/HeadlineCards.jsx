@@ -33,7 +33,7 @@ function HeadlineCards() {
             <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
                 <p className='font-bold text-2xl px-2 pt-2'>We have desserts too.</p>
                 <p className='px-2'>Tasty Treats</p>
-                <button className='border-white bg-white text-black'></button>
+                <button className='border-white bg-white text-black mx-2 absolute bottom-4'>See More</button>
             </div>
             <img className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
                  src='https://images.pexels.com/photos/827513/pexels-photo-827513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
