@@ -34,7 +34,7 @@ function HeadlineCards() {
 
             </div>
             <img className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
-                 src='https://images.pexels.com/photos/2693447/pexels-photo-2693447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+                 src='https://images.pexels.com/photos/827513/pexels-photo-827513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
                  alt=''/>
         </div>
     </div>
