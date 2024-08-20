@@ -6,7 +6,13 @@ function Foods() {
   const [foods, setFoods] = useState(data);
 
   // Filter by Type burgers/pizza/etc...
-  const filterType = ()
+  const filterType = (category) => {
+    setFoods(
+        data.filter((item) => {
+            return
+        })
+    )
+  }
   }
 }
 
