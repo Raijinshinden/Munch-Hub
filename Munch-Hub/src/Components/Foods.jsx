@@ -13,10 +13,10 @@ import React, { useState } from 'react'
   };
 
   // Filter by price
-  const filterType = (category) => {
+  const filterPrice = (price) => {
     setFoods(
         data.filter((item) => {
-            return item.category === category;
+            return item.price === price;
         })
     );
   };
