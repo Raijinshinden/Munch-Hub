@@ -13,6 +13,14 @@ import React, { useState } from 'react'
   };
 
   // Filter by price
+  const filterType = (category) => {
+    setFoods(
+        data.filter((item) => {
+            return item.category === category;
+        })
+    );
+  };
+
   }
 
 
