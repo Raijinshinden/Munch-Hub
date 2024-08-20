@@ -9,7 +9,7 @@ function Foods() {
   const filterType = (category) => {
     setFoods(
         data.filter((item) => {
-            return
+            return item.category === category
         })
     )
   }
