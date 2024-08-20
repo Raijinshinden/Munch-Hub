@@ -1,8 +1,6 @@
 import React, { useState } from 'react'
 
-function Foods() {
   const Food = () => {
-  
   const [foods, setFoods] = useState(data);
 
   // Filter by Type burgers/pizza/etc...
@@ -16,6 +14,6 @@ function Foods() {
 
   // Filter by price
   }
-}
+
 
 export default Foods
