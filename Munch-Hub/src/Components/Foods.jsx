@@ -1,9 +1,9 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 function Foods() {
   const Food = () => {
   
-  const [foods, setFoods]
+  const [foods, setFoods] = useState(data)
   }
 }
 
