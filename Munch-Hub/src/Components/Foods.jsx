@@ -23,7 +23,7 @@ import React, { useState } from 'react'
 
   return (
     <div className='max-w-[1640] m-auto px-4 py-12'>
-        <h1></h1>
+        <h1 className='text-yellow-500'></h1>
 
     </div>
   )
