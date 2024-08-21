@@ -26,6 +26,9 @@ import React, { useState } from 'react'
         <h1 className='text-yellow-500 font-bold text-4xl text-center mb-4'>Top Rated Menu Items</h1>
 
         {/* Filter Row */}
+        <div className='flex flex-col lg:flex-row justify-between'>
+
+        </div>
 
     </div>
   )
