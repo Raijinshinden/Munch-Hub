@@ -27,6 +27,10 @@ import React, { useState } from 'react'
 
         {/* Filter Row */}
         <div className='flex flex-col lg:flex-row justify-between'>
+            {/* Filter Type */}
+            <div>
+                <p className='font-bold text-gray-700'></p>
+            </div>
 
         </div>
 
