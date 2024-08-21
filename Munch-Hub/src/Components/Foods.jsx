@@ -22,7 +22,9 @@ import React, { useState } from 'react'
   };
 
   return (
-    
+    <div className='max-w-[1640px]'>
+
+    </div>
   )
 
   }
