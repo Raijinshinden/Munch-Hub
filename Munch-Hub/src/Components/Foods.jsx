@@ -22,7 +22,7 @@ import React, { useState } from 'react'
   };
 
   return (
-    <div className='max-w-[1640]'>
+    <div className='max-w-[1640] m-auto px-4 py-12'>
 
     </div>
   )
