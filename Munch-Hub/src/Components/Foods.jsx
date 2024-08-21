@@ -30,7 +30,7 @@ import React, { useState } from 'react'
             {/* Filter Type */}
             <div>
                 <p className='font-bold text-gray-700'>Filter Type</p>
-                <div className='flex justify-between'>
+                <div className='flex justify-between flex-wrap'>
 
                 </div>
             </div>
