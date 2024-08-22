@@ -32,7 +32,7 @@ import React, { useState } from 'react'
                 <p className='font-bold text-gray-700'>Filter Type</p>
                 <div className='flex justify-between flex-wrap'>
                     <button onClick={()=> setFoods(data)} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
-
+                        All
                     </button>
 
                 </div>
