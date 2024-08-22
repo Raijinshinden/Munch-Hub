@@ -34,7 +34,7 @@ import React, { useState } from 'react'
                     <button onClick={()=> setFoods(data)} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         All
                     </button>
-                    <button onClick={()=> setFoods(data)} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
+                    <button onClick={()=> filterType('burger')} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         Burgers
                     </button>
                 </div>
