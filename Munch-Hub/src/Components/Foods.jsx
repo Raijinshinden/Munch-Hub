@@ -31,6 +31,9 @@ import React, { useState } from 'react'
             <div>
                 <p className='font-bold text-gray-700'>Filter Type</p>
                 <div className='flex justify-between flex-wrap'>
+                    <button>
+                        
+                    </button>
 
                 </div>
             </div>
