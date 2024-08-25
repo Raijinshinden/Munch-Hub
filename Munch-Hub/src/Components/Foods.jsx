@@ -53,7 +53,7 @@ import React, { useState } from 'react'
             <div>
                 <p className='font-bold text-gray-700'>Filter Price</p>
                 <div className='flex justify-between max-w-[390px] w-full'>
-                    <button onClick={()=> filterPrice('$')}>
+                    <button onClick={()=> filterPrice('$')} className=''>
 
                     </button>
 
