@@ -52,6 +52,9 @@ import React, { useState } from 'react'
             {/* Filter Price */}
             <div>
                 <p className='font-bold text-gray-700'>Filter Price</p>
+                <div className=''>
+
+                </div>
             </div>
 
         </div>
