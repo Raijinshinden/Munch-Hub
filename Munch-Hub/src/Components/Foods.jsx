@@ -41,7 +41,7 @@ import React, { useState } from 'react'
                         Pizza
                     </button>
                     <button onClick={()=> filterType('salads')} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
-                        Burgers
+                        Salads
                     </button>
                 </div>
             </div>
