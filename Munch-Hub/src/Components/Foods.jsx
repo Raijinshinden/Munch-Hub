@@ -50,6 +50,9 @@ import React, { useState } from 'react'
             </div>
 
             {/* Filter Price */}
+            <div>
+                <p>Filter Price</p>
+            </div>
 
         </div>
     </div>
