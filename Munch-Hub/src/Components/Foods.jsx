@@ -43,6 +43,9 @@ import React, { useState } from 'react'
                     <button onClick={()=> filterType('salads')} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         Salads
                     </button>
+                    <button onClick={()=> filterType('chicken')} className='m-1 border-orange-600 border-2 text-orange-600 hover:bg-orange-600 hover:text-white'>
+                        Chickens
+                    </button>
                 </div>
             </div>
 
