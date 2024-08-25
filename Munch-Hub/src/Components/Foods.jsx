@@ -49,8 +49,9 @@ import React, { useState } from 'react'
                 </div>
             </div>
 
-        </div>
+            {/* Filter Price */}
 
+        </div>
     </div>
   )
 
