@@ -72,7 +72,9 @@ import React, { useState } from 'react'
         {/* Display Foods */}
         <div className='grid grid-cols-2 lg:grid-cols-4 gap-6 pt-4'>
             {foods.map((item, index)=>(
-                
+                <div>
+                    
+                </div>
             ))}
 
         </div>
