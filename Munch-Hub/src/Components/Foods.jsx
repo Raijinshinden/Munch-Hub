@@ -70,6 +70,9 @@ import React, { useState } from 'react'
         </div>
 
         {/* Display Foods */}
+        <div className='grid'>
+
+        </div>
 
 
 
