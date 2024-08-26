@@ -70,7 +70,7 @@ import React, { useState } from 'react'
         </div>
 
         {/* Display Foods */}
-        <div className='grid'>
+        <div className='grid grid-cols-2'>
 
         </div>
 
