@@ -79,7 +79,7 @@ import React, { useState } from 'react'
                     <div className='flex justify-between px-2 py-4'>
                         <p className='font-bold'>{item.name}</p>
                         <p>
-                            <span className='bg-yellow-500 text-white'>{item.price}</span>
+                            <span className='bg-yellow-500 text-white py-1 px-2 rounded-full'>{item.price}</span>
                         </p>
 
                     </div>
