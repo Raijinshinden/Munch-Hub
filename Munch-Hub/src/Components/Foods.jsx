@@ -78,6 +78,9 @@ import React, { useState } from 'react'
                     />
                     <div className='flex justify-between px-2 py-4'>
                         <p className='font-bold'>{item.name}</p>
+                        <p>
+                            <span>{item.price}</span>
+                        </p>
 
                     </div>
 
