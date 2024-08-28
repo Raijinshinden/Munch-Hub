@@ -77,6 +77,8 @@ import React, { useState } from 'react'
                     className='w-full h-[200px] object-cover rounded-t-lg'
                     />
                     <div>
+                        
+                    </div>
 
                 </div>
             ))}
