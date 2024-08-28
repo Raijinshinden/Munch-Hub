@@ -76,8 +76,8 @@ import React, { useState } from 'react'
                     <img src={item.image} alt={item.name}
                     className='w-full h-[200px] object-cover rounded-t-lg'
                     />
-                    <div>
-                        
+                    <div className=''>
+
                     </div>
 
                 </div>
