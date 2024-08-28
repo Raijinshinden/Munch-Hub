@@ -81,12 +81,9 @@ import React, { useState } from 'react'
                         <p>
                             <span className='bg-yellow-500 text-white py-1 px-2 rounded-full'>{item.price}</span>
                         </p>
-
                     </div>
-
                 </div>
             ))}
-
         </div>
 
 
@@ -96,4 +93,4 @@ import React, { useState } from 'react'
 }
 
 
-export default Foods
+export default Food
