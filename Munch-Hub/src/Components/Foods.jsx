@@ -75,6 +75,7 @@ import React, { useState } from 'react'
                 <div key={index} className='border shadow-lg rounded-lg hover:scale-105 duration-300 hover:cursor-pointer'>
                     <img src={item.image} alt={item.name}
                     className='w-full h-[200px] object-cover rounded-t-lg'
+                    />
 
                 </div>
             ))}
