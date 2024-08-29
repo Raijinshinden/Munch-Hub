@@ -77,7 +77,7 @@ import React, { useState } from 'react'
                     className='w-full h-[200px] object-cover rounded-t-lg'
                     />
                     <div className='flex justify-between px-2 py-4'>
-                        <p className='font-bold'>{item.name}</p>
+                        <p className='font-'>{item.name}</p>
                         <p>
                             <span className='bg-yellow-500 text-white py-1 px-2 rounded-full'>{item.price}</span>
                         </p>
