@@ -8,6 +8,6 @@ export const data = [
     },
     {
         id: 2,
-        
+        name: '',
     }
 ]
