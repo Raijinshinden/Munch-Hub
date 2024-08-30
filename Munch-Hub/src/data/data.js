@@ -28,6 +28,6 @@ export const data = [
         price: '',
     },
     {
-
+        id: 5,
     }
 ]
