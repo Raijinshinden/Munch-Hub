@@ -20,4 +20,7 @@ export const data = [
         image: '',
         price: '',
     }
+    {
+        id: 4,
+    }
 ]
