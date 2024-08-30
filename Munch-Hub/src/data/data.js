@@ -61,5 +61,12 @@ export const data = [
         category: '',
         image: '',
         price: '',
+    },
+    {
+        id: 10,
+        name: '',
+        category: '',
+        image: '',
+        price: '',
     }
 ]
