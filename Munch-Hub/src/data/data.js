@@ -22,5 +22,7 @@ export const data = [
     }
     {
         id: 4,
+        name: '',
+        category: '',
     }
 ]
