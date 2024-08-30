@@ -31,6 +31,7 @@ export const data = [
         id: 5,
         name: '',
         category: '',
+        image: '',
         price: '',
     }
 ]
