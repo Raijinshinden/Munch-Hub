@@ -12,19 +12,22 @@ export const data = [
         category: '',
         image: '',
         price: '',
-    }
+    },
     {
         id: 3,
         name: '',
         category: '',
         image: '',
         price: '',
-    }
+    },
     {
         id: 4,
         name: '',
         category: '',
         image: '',
-        price: ''
+        price: '',
+    },
+    {
+
     }
 ]
