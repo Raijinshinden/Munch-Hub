@@ -5,5 +5,9 @@ export const data = [
         category: '',
         image: '',
         price: '',
+    },
+    {
+        id: 2,
+        
     }
 ]
