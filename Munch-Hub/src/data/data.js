@@ -78,6 +78,9 @@ export const data = [
     },
     {
         id: 12,
-        
+        name: '',
+        category: '',
+        image: '',
+        price: '',
     }
 ]
