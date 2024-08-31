@@ -82,5 +82,6 @@ export const data = [
         category: '',
         image: '',
         price: '',
-    }
+    },
+    
 ]
