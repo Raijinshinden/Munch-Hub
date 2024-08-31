@@ -88,6 +88,6 @@ export const data = [
         name: '',
         category: '',
         image: '',
-        
+        price: '',
     }
 ]
