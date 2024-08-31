@@ -83,5 +83,9 @@ export const data = [
         image: '',
         price: '',
     },
-    
+    {
+        id: 13,
+        name: '',
+        category: '',
+    }
 ]
