@@ -22,7 +22,7 @@ export const data = [
     },
     {
         id: 4,
-        name: '',
+        name: 'double cheeseburger',
         category: '',
         image: '',
         price: '',
