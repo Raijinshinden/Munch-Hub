@@ -78,7 +78,7 @@ export const data = [
     },
     {
         id: 12,
-        name: '',
+        name: 'green curry',
         category: '',
         image: '',
         price: '',
