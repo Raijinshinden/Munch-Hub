@@ -57,7 +57,7 @@ export const data = [
     },
     {
         id: 9,
-        name: '',
+        name: 'massaman curry',
         category: '',
         image: '',
         price: '',
