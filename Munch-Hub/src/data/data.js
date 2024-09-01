@@ -15,7 +15,7 @@ export const data = [
     },
     {
         id: 3,
-        name: '',
+        name: 'baconburger',
         category: '',
         image: '',
         price: '',
