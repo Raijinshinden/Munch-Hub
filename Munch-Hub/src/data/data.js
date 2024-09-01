@@ -71,7 +71,7 @@ export const data = [
     },
     {
         id: 11,
-        name: '',
+        name: 'Japanese curry',
         category: '',
         image: '',
         price: '',
