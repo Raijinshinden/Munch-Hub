@@ -8,7 +8,7 @@ export const data = [
     },
     {
         id: 2,
-        name: '',
+        name: 'cheeseburger',
         category: '',
         image: '',
         price: '',
