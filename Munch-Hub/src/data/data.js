@@ -64,7 +64,7 @@ export const data = [
     },
     {
         id: 10,
-        name: '',
+        name: 'pork vindaloo',
         category: '',
         image: '',
         price: '',
