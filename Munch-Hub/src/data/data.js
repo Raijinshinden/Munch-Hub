@@ -120,7 +120,7 @@ export const data = [
     },
     {
         id: 18,
-        name: '',
+        name: 'steak pie',
         category: '',
         image: '',
         price: '',
