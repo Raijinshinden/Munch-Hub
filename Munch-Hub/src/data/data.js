@@ -85,7 +85,7 @@ export const data = [
     },
     {
         id: 13,
-        name: '',
+        name: 'caesar salad',
         category: '',
         image: '',
         price: '',
