@@ -50,7 +50,7 @@ export const data = [
     },
     {
         id: 8,
-        name: '',
+        name: 'chicken wings',
         category: '',
         image: '',
         price: '',
