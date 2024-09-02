@@ -107,7 +107,7 @@ export const data = [
     {
         id: 16,
         name: 'thai beef salad',
-        category: '',
+        category: 'salad',
         image: '',
         price: '',
     },
