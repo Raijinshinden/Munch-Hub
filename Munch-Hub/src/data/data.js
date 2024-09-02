@@ -9,7 +9,7 @@ export const data = [
     {
         id: 2,
         name: 'cheeseburger',
-        category: '',
+        category: 'burger',
         image: '',
         price: '',
     },
