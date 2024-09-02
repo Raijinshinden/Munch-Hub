@@ -86,7 +86,7 @@ export const data = [
     {
         id: 13,
         name: 'caesar salad',
-        category: '',
+        category: 'salad',
         image: '',
         price: '',
     },
