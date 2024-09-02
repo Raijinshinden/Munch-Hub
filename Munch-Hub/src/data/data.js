@@ -114,7 +114,7 @@ export const data = [
     {
         id: 17,
         name: 'mince pie',
-        category: '',
+        category: 'pie',
         image: '',
         price: '',
     },
