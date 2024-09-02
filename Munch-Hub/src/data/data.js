@@ -128,7 +128,7 @@ export const data = [
     {
         id: 19,
         name: 'salmon pie',
-        category: '',
+        category: 'pie',
         image: '',
         price: '',
     },
