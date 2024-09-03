@@ -46,7 +46,7 @@ export const data = [
         name: 'chicken kebab',
         category: 'chicken',
         image: '',
-        price: '$$',
+        price: '$$$',
     },
     {
         id: 8,
