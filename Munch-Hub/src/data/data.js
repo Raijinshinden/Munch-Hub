@@ -4,7 +4,7 @@ export const data = [
         name: 'burger',
         category: 'burger',
         image: '',
-        price: '',
+        price: '$',
     },
     {
         id: 2,
