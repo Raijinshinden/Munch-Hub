@@ -81,7 +81,7 @@ export const data = [
         name: 'green curry',
         category: 'curry',
         image: '',
-        price: '$$$',
+        price: '$$',
     },
     {
         id: 13,
