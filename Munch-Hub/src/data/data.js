@@ -130,7 +130,7 @@ export const data = [
         name: 'salmon pie',
         category: 'pie',
         image: '',
-        price: '$$$',
+        price: '$$',
     },
     {
         id: 20,
