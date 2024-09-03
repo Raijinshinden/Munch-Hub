@@ -29,7 +29,7 @@ export const data = [
     },
     {
         id: 5,
-        name: 'roast chicken',
+        name: 'Roast chicken',
         category: 'chicken',
         image: '',
         price: '$$$$',
