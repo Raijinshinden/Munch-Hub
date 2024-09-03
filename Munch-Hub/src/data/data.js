@@ -1,7 +1,7 @@
 export const data = [
     {
         id: 1,
-        name: 'burger',
+        name: 'Hamburger',
         category: 'burger',
         image: '',
         price: '$',
