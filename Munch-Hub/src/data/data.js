@@ -8,7 +8,7 @@ export const data = [
     },
     {
         id: 2,
-        name: 'cheeseburger',
+        name: 'Cheeseburger',
         category: 'burger',
         image: '',
         price: '$$',
