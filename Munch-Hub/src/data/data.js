@@ -99,7 +99,7 @@ export const data = [
     },
     {
         id: 15,
-        name: 'korean salad',
+        name: 'Korean Salad',
         category: 'salad',
         image: '',
         price: '$',
