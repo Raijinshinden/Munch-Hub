@@ -95,7 +95,7 @@ export const data = [
         name: 'waldorf salad',
         category: 'salad',
         image: '',
-        price: '$',
+        price: '$$',
     },
     {
         id: 15,
