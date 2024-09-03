@@ -102,14 +102,14 @@ export const data = [
         name: 'korean salad',
         category: 'salad',
         image: '',
-        price: '$$',
+        price: '$',
     },
     {
         id: 16,
         name: 'thai beef salad',
         category: 'salad',
         image: '',
-        price: '$$$$',
+        price: '$$$',
     },
     {
         id: 17,
