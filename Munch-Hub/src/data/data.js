@@ -99,7 +99,7 @@ export const data = [
     },
     {
         id: 15,
-        name: 'Autumn Salad',
+        name: 'Chicken Salad',
         category: 'salad',
         image: 'https://media.istockphoto.com/id/1454741285/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E6%9C%A8%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E9%AD%9A%E3%81%A8%E9%87%8E%E8%8F%9C%E3%81%AE%E3%82%B5%E3%83%A9%E3%83%80.jpg?s=2048x2048&w=is&k=20&c=eAzQkc8-Xx87qpSNOAAhEDLFQ55N8jLBXLYMXpAqABI=',
         price: '$',
