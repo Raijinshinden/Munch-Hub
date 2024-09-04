@@ -3,7 +3,7 @@ export const data = [
         id: 1,
         name: 'Hamburger',
         category: 'burger',
-        image: '',
+        image: 'https://media.istockphoto.com/id/1771257128/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9D%E3%83%86%E3%83%88%E3%81%AE%E3%83%93%E3%83%BC%E3%83%95%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC.jpg?s=2048x2048&w=is&k=20&c=NQmVk5wVygagMHbpMWtSjhoSv5bUmvKGWmXjXLIzdTY=',
         price: '$',
     },
     {
