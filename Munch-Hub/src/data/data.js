@@ -87,7 +87,7 @@ export const data = [
         id: 13,
         name: 'Caesar Salad',
         category: 'salad',
-        image: '',
+        image: 'https://media.istockphoto.com/id/1338803225/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E5%8F%A4%E5%85%B8%E7%9A%84%E3%81%AA%E3%83%89%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%8C%E6%B3%A8%E3%81%8C%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%82%AD%E3%83%B3%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%80%E3%81%A8%E3%82%AF%E3%83%AB%E3%83%88%E3%83%B3.jpg?s=2048x2048&w=is&k=20&c=9C5h2LdqZfdg5cs5LIjR1QNfHDqHwABfNXi-U9vZhiw=',
         price: '$',
     },
     {
