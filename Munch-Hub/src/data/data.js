@@ -80,7 +80,7 @@ export const data = [
         id: 12,
         name: 'Green Curry',
         category: 'curry',
-        image: '',
+        image: 'https://media.istockphoto.com/id/1271879367/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E6%9C%89%E5%90%8D%E3%81%AA%E3%82%BF%E3%82%A4%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B3%E3%82%B3%E3%83%8A%E3%83%83%E3%83%84%E3%82%AB%E3%83%AC%E3%83%BC%E3%82%AC%E3%82%A8%E3%83%B3%E3%82%B1%E3%82%AA%E3%83%AF%E3%83%B3%E3%82%AC%E3%82%A4%E3%83%81%E3%82%AD%E3%83%B3%E7%99%BD%E3%81%84%E3%83%9C%E3%82%A6%E3%83%AB%E5%8F%A4%E3%81%84%E6%91%A9%E8%80%97%E3%81%97%E3%81%9F%E6%9C%A8%E8%A3%BD%E3%81%AE%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E5%BA%A7%E3%81%A3%E3%81%A6.jpg?s=2048x2048&w=is&k=20&c=HG0Qg5hJ48UaCtKwGZuPY1ku1wD3W_crXh8CBwFGSFg=',
         price: '$$',
     },
     {
