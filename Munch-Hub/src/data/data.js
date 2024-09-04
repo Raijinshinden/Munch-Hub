@@ -113,7 +113,7 @@ export const data = [
     },
     {
         id: 17,
-        name: 'Mince Pie',
+        name: 'Mince ',
         category: 'pie',
         image: 'https://media.istockphoto.com/id/89137638/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%83%9F%E3%83%BC%E3%83%88%E3%83%91%E3%82%A4%E3%82%84%E3%82%BD%E3%83%BC%E3%82%B9.jpg?s=2048x2048&w=is&k=20&c=SxbBn2EcOJcFCRvflUCscXRgr9ZEHvJD1l5rgc5uNpo=',
         price: '$',
