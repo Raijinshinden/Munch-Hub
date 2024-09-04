@@ -120,7 +120,7 @@ export const data = [
     },
     {
         id: 18,
-        name: 'Steak Pie',
+        name: ' Pie',
         category: 'pie',
         image: 'https://media.istockphoto.com/id/937723122/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E8%A1%A8%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AE%E6%9C%A8%E3%81%AE%E6%9D%BF%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA-%E3%82%A2%E3%83%83%E3%83%97%E3%82%92%E3%82%B3%E3%83%94%E3%83%BC-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E7%B4%A0%E6%9C%B4%E3%81%AA%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E4%B8%8A%E3%81%AB%E6%96%B0%E9%AE%AE%E3%81%AA%E4%BC%9D%E7%B5%B1%E7%9A%84%E3%81%AA%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E8%82%89%E3%83%9F%E3%83%8B-%E3%83%91%E3%82%A4.jpg?s=2048x2048&w=is&k=20&c=q8iS_UytGmuRh0ksDrElxvw5ssbaECEWkYrd_Relamo=',
         price: '$$$',
