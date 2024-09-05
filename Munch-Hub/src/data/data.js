@@ -172,5 +172,9 @@ export const categories = [
         name: 'Latest Deals',
         image: 
             '',
+    },
+    {
+        id: 6,
+        name: 'Restaurant Rewards'
     }
 ]
