@@ -143,5 +143,8 @@ export const data = [
 
 
 export const categories = [
-    
+    {
+        id: 1,
+        name:
+    }
 ]
