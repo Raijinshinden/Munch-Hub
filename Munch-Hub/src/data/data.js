@@ -182,5 +182,7 @@ export const categories = [
     {
         id: 7,
         name: 'Best Overall',
+        image:
+            '',
     }
 ]
