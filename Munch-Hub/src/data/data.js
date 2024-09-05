@@ -142,4 +142,6 @@ export const data = [
 ];
 
 
-export 
+export const categories = [
+    
+]
