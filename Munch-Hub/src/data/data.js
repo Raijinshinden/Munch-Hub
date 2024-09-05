@@ -152,5 +152,7 @@ export const categories = [
     {
         id: 2,
         name: 'Pizza',
+        image:
+            '',
     }
 ]
