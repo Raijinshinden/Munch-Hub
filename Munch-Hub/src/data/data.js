@@ -189,5 +189,6 @@ export const categories = [
         id: 8,
         name: 'Shipped Free',
         image:
+            '',
     }
 ]
