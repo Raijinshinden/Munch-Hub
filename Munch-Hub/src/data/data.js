@@ -168,6 +168,8 @@ export const categories = [
             '',
     },
     {
-        id:
+        id: 5,
+        name: 'Latest Deals',
+        
     }
 ]
