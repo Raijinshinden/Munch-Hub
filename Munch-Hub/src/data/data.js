@@ -156,6 +156,6 @@ export const categories = [
             '',
     },
     {
-        id; 3,
+        id: 3,
     }
 ]
