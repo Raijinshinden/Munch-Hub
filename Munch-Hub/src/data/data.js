@@ -170,6 +170,7 @@ export const categories = [
     {
         id: 5,
         name: 'Latest Deals',
-        
+        image: 
+            '',
     }
 ]
