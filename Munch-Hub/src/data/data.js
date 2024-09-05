@@ -148,5 +148,9 @@ export const categories = [
         name: 'Fast Food',
         image:
             '',
+    },
+    {
+        id: 2,
+        
     }
 ]
