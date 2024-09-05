@@ -160,5 +160,14 @@ export const categories = [
         name: 'Wings',
         image:
             '',
+    },
+    {
+        id: 4,
+        name: 'Indian',
+        images:
+            '',
+    },
+    {
+        id:
     }
 ]
