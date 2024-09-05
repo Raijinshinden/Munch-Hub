@@ -3,8 +3,8 @@ import { categories } from '../data/data'
 
 const Category = () => {
     return (
-        <div>
-            
+        <div className='max-w-[1640px]'>
+
         </div>
     )
 }
