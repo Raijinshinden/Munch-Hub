@@ -190,5 +190,5 @@ export const categories = [
         name: 'Shipped Free',
         image:
             '',
-    }
-]
+    },
+];
