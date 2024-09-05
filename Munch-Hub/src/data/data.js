@@ -178,5 +178,9 @@ export const categories = [
         name: 'Restaurant Rewards',
         image:
             '',
+    },
+    {
+        id: 7,
+        
     }
 ]
