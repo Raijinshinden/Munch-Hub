@@ -9,7 +9,7 @@ const Category = () => {
             <div className='grid grid-cols-2 md:grid-cols-4 gap-6 py-6'>
                 {categories.map((item, index) => (
                     <div key={index} className='bg-gray-100 rounded-lg
-                    p-4 flex'>
+                    p-4 flex justify-between'>
 
                     </div>
                 ))}
