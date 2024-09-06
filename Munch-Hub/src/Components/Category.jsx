@@ -13,12 +13,9 @@ const Category = () => {
                         <h2 className='font-bold sm:text-xl'>{item.name}</h2>
                         <img src={item.image} alt={item.name}
                         className='w-20'/>
-
                     </div>
                 ))}
-
             </div>
-
         </div>
     )
 }
