@@ -10,6 +10,7 @@ const Category = () => {
                 {categories.map((item, index) => (
                     <div key={index} className='bg-gray-100 rounded-lg
                     p-4 flex justify-between items-center'>
+                        <h2></h2>
 
                     </div>
                 ))}
