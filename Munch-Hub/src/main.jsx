@@ -5,6 +5,7 @@ import Hero from './Components/Hero.jsx'
 import HeadlineCards from './Components/HeadlineCards.jsx'
 import Foods from './Components/Foods.jsx'
 import './index.css'
+import Category from './Components/Category.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -12,5 +13,6 @@ createRoot(document.getElementById('root')).render(
     <Hero/>
     <HeadlineCards/>
     <Foods/>
+    <Category/>
   </StrictMode>,
 )
