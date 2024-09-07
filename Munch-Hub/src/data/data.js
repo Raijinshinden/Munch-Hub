@@ -189,6 +189,6 @@ export const categories = [
         id: 8,
         name: 'Shipped Free',
         image:
-            '',
+            'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Placeholder_Plates@3x.png',
     },
 ];
