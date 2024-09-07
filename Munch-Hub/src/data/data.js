@@ -67,7 +67,7 @@ export const data = [
         name: 'Butter Chicken',
         category: 'curry',
         image: 'https://media.istockphoto.com/id/639389404/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E6%9C%AC%E7%89%A9%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%89%E6%96%99%E7%90%86.jpg?s=2048x2048&w=is&k=20&c=ksSpZ_t_O83TTGoIhCPaQgyYIpEbuAMI5FgOaye4BJs=',
-        price: '$$',
+        price: '$10',
     },
     {
         id: 11,
