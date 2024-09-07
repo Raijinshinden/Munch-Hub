@@ -130,7 +130,7 @@ export const data = [
         name: 'Salmon Quiche',
         category: 'pie',
         image: 'https://media.istockphoto.com/id/583718272/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89%E3%81%A8%E9%AD%9A%E3%81%AE%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5.jpg?s=2048x2048&w=is&k=20&c=9JFwxJzPCZuNYV0JTnEvZSIhZCtEwEz28WE2Et6jMjo=',
-        price: '$$',
+        price: '$10',
     },
     {
         id: 20,
