@@ -74,7 +74,7 @@ export const data = [
         name: 'Japanese Curry',
         category: 'curry',
         image: 'https://media.istockphoto.com/id/1967515957/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/japanese-curry-rice.jpg?s=2048x2048&w=is&k=20&c=TD0PBeNTVKoux8gBBEYicXhjOdgPx-yAiap9KBGHkvQ=',
-        price: '$',
+        price: '$5',
     },
     {
         id: 12,
