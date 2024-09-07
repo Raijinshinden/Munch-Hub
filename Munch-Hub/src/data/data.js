@@ -165,7 +165,7 @@ export const categories = [
         id: 4,
         name: 'Indian',
         images:
-            '',
+            'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Indian_BrowseHome@3x.png',
     },
     {
         id: 5,
