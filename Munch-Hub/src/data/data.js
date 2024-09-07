@@ -18,7 +18,7 @@ export const data = [
         name: 'Baconburger',
         category: 'burger',
         image: 'https://media.istockphoto.com/id/520215281/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%83%99%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%96%E3%83%AB%E3%82%B8%E3%82%A7.jpg?s=2048x2048&w=is&k=20&c=VwQPv1p82WpDUsnn-wd9YeSwsL5yPmPbZDDdwiuwyE0=',
-        price: '$$$',
+        price: '$15',
     },
     {
         id: 4,
