@@ -147,7 +147,7 @@ export const categories = [
         id: 1,
         name: 'Fast Food',
         image:
-            '',
+            'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/FastFood_BrowseHome@3x.png',
     },
     {
         id: 2,
