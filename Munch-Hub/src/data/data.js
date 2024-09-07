@@ -46,7 +46,7 @@ export const data = [
         name: 'Chicken Kebab',
         category: 'chicken',
         image: 'https://media.istockphoto.com/id/959937952/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E6%9C%A8%E8%A3%BD%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E3%83%94%E3%82%BF%E3%83%91%E3%83%B3%E3%81%AB%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3-%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AD%E5%8C%85%E3%81%BE%E3%82%8C%E3%81%A6.jpg?s=2048x2048&w=is&k=20&c=EYzXPhkDDdh1K9JyZWJuhh1yqg2uScuwewRXWLTfot4=',
-        price: '$$$',
+        price: '$15',
     },
     {
         id: 8,
