@@ -53,7 +53,7 @@ export const data = [
         name: 'Chicken Wings',
         category: 'chicken',
         image: 'https://media.istockphoto.com/id/482375667/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%81%E3%82%AD%E3%83%B3.jpg?s=2048x2048&w=is&k=20&c=2Sr1_ShsLZkU4n-Ek8fefp1zyhEzIeoA4SfDTqHCyU4=',
-        price: '$$',
+        price: '$10',
     },
     {
         id: 9,
