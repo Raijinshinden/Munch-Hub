@@ -171,7 +171,7 @@ export const categories = [
         id: 5,
         name: 'Latest Deals',
         image: 
-            '',
+            'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Deals_BrowseHome@3x.png',
     },
     {
         id: 6,
