@@ -4,8 +4,9 @@ import App from './App.jsx'
 import Hero from './Components/Hero.jsx'
 import HeadlineCards from './Components/HeadlineCards.jsx'
 import Foods from './Components/Foods.jsx'
-import './index.css'
 import Category from './Components/Category.jsx'
+import './index.css'
+
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
