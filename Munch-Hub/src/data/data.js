@@ -109,7 +109,7 @@ export const data = [
         name: 'Thai Beef Salad',
         category: 'salad',
         image: 'https://media.istockphoto.com/id/497964150/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E7%85%A7%E3%82%8A%E7%84%BC%E3%81%8D%E3%81%AE%E3%83%93%E3%83%BC%E3%83%95%E3%82%B5%E3%83%A9%E3%83%80.jpg?s=2048x2048&w=is&k=20&c=UqWK6tlMAHvui_qlXwbeIQu39t2TNDcFUQsKbCieOGI=',
-        price: '$$$',
+        price: '$15',
     },
     {
         id: 17,
