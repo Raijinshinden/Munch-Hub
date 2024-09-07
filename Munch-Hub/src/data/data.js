@@ -177,7 +177,7 @@ export const categories = [
         id: 6,
         name: 'Restaurant Rewards',
         image:
-            '',
+            'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/RestoRewards_BrowseHome@3x.png',
     },
     {
         id: 7,
