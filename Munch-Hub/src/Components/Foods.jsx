@@ -57,10 +57,10 @@ import { data } from '../data/data';
                     <button onClick={()=> filterPrice('$5')} className='m-2 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         $5
                     </button>
-                    <button onClick={()=> filterPrice('$$')} className='m-2 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
+                    <button onClick={()=> filterPrice('$10')} className='m-2 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         $10
                     </button>
-                    <button onClick={()=> filterPrice('$$$')} className='m-2 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
+                    <button onClick={()=> filterPrice('$15')} className='m-2 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         $15
                     </button>
                     <button onClick={()=> filterPrice('$$$$')} className='m-2 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
