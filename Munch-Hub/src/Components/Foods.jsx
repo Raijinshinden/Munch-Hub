@@ -58,7 +58,7 @@ import { data } from '../data/data';
                         $5 - $9
                     </button>
                     <button onClick={()=> filterPrice('$$')} className='m-2 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
-                        $10 - $15
+                        $10 - $14
                     </button>
                     <button onClick={()=> filterPrice('$$$')} className='m-2 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         $$$
