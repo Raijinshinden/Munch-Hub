@@ -38,14 +38,14 @@ import { data } from '../data/data';
                     <button onClick={()=> filterType('burger')} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         Burgers
                     </button>
-                    <button onClick={()=> filterType('pizza')} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
-                        Pizza
+                    <button onClick={()=> filterType('chicken')} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
+                        Chickens
                     </button>
                     <button onClick={()=> filterType('salads')} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         Salads
                     </button>
-                    <button onClick={()=> filterType('chicken')} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
-                        Chickens
+                    <button onClick={()=> filterType('curry')} className='m-1 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
+                        Curries
                     </button>
                 </div>
             </div>
