@@ -52,7 +52,7 @@ import { data } from '../data/data';
 
             {/* Filter Price */}
             <div>
-                <p className='font-bold text-gray-700'>Price</p>
+                <p className='font-bold text-gray-700'>Price Range</p>
                 <div className='flex justify-between max-w-[390px] w-full'>
                     <button onClick={()=> filterPrice('$')} className='m-2 border-yellow-500 border-2 text-yellow-500 hover:bg-yellow-500 hover:text-white'>
                         $
