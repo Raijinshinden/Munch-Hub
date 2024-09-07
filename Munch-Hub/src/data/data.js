@@ -153,7 +153,7 @@ export const categories = [
         id: 2,
         name: 'Pizza',
         image:
-            '',
+            'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Pizza_BrowseHome@3x.png',
     },
     {
         id: 3,
