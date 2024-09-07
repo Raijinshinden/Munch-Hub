@@ -137,7 +137,7 @@ export const data = [
         name: 'Fruit Tart',
         category: 'pie',
         image: 'https://images.pexels.com/photos/461431/pexels-photo-461431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-        price: '$$',
+        price: '$10',
     },
 ];
 
