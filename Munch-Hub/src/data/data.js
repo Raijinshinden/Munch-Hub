@@ -32,7 +32,7 @@ export const data = [
         name: 'Roast Chicken',
         category: 'chicken',
         image: 'https://media.istockphoto.com/id/1926884275/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E8%87%AA%E5%AE%B6%E8%A3%BD%E3%83%AC%E3%83%A2%E3%83%B3%E3%81%A8%E3%83%8F%E3%83%BC%E3%83%96%E3%81%AE%E3%83%AD%E3%83%86%E3%82%A3%E3%82%B5%E3%83%AA%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3%E3%82%92%E7%9A%BF%E3%81%AB%E4%B9%97%E3%81%9B%E3%81%A6%E5%81%B4%E9%9D%A2%E5%9B%B3.jpg?s=2048x2048&w=is&k=20&c=Xhri9W0Jx7ql_39gJDnJErVQxusTuT9qlt2FtO10GsQ=',
-        price: '$$$$',
+        price: '$20',
     },
     {
         id: 6,
