@@ -183,7 +183,7 @@ export const categories = [
         id: 7,
         name: 'Best Overall',
         image:
-            '',
+            'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/TopEats_Browse%20Home@3x.png',
     },
     {
         id: 8,
